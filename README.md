@@ -4,5 +4,7 @@ BurpDroid is a web application debugging tool for Android, and your can use it f
 
 
 
-[<img  src="https://lh3.googleusercontent.com/proxy/0BrePeM8xMFfMZa7KWrzwkIRmPOH_asiFKFL9lEQG1yOTFyi8dWd8hcMm4DvhXQ2YdU1aK9VGfjwRUgHXJM7-dgJpccylGZLsr60WwAmkzdRd-8rToaLKtUlzg" width="20%">](https://play.google.com/store/apps/details?id=com.burpdroid)
+[<img  src="https://cdn.freebiesupply.com/logos/large/2x/google-play-badge-logo-png-transparent.png" width="20%">](https://play.google.com/store/apps/details?id=com.burpdroid)
+
+
 
